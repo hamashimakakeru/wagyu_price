@@ -1,6 +1,11 @@
 # Git Lesson
 
 ## リモートリポジトリとローカルリポジトリとはそれぞれ何でしょうか？
+- tttt
+* uuuu
+1. eee
+1. gggg
+1. rrrr
 
 
 
